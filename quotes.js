@@ -18,6 +18,10 @@ const quotes = [
     {
         text: "Tu tiempo es limitado, no lo desperdicies viviendo la vida de otra persona.",
         author: "Steve Jobs"
+    },
+    {
+        text: "Solo hay una forma de evitar las críticas: no hagas nada, no digas nada, y no seas nada.",
+        author: "Aristóteles"
     }
 ];
 
